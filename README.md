@@ -2,4 +2,4 @@
 Test Python Git
 
 
- TODO: COmplete this README file
+ TODO: Complete this README file
