@@ -27,6 +27,7 @@
     <Compile Include="PythonApplication1.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Feature1.py.vsspell" />
     <Content Include="LICENSE" />
     <Content Include="README.md" />
   </ItemGroup>
